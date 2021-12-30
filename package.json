@@ -1,5 +1,4 @@
 {
-  "homepage": "http://tmmychn.github.io/todo-app",
   "name": "todo-app-main",
   "version": "0.1.0",
   "private": true,
@@ -16,6 +15,7 @@
     "react-scripts": "4.0.3",
     "web-vitals": "^1.1.2"
   },
+  "homepage": "https://tmmychn.github.io/todo-app-main",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -b deploy -d build",
